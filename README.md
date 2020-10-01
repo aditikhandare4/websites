@@ -60,10 +60,10 @@
             <table class="table-auto w-full text-left whitespace-no-wrap">
               <thead>
                 <tr>
-                  <th class="px-4 py-3 title-font tracking-wider font-medium text-gray-900 text-sm bg-gray-200 rounded-tl rounded-bl">Plan</th>
-                  <th class="px-4 py-3 title-font tracking-wider font-medium text-gray-900 text-sm bg-gray-200">Speed</th>
-                  <th class="px-4 py-3 title-font tracking-wider font-medium text-gray-900 text-sm bg-gray-200">Storage</th>
-                  <th class="px-4 py-3 title-font tracking-wider font-medium text-gray-900 text-sm bg-gray-200">Price</th>
+                  <th class="px-4 py-3 title-font tracking-wider font-medium text-gray-600 text-sm bg-gray-200 rounded-tl rounded-bl">Plan</th>
+                  <th class="px-4 py-3 title-font tracking-wider font-medium text-gray-600 text-sm bg-gray-200">Speed</th>
+                  <th class="px-4 py-3 title-font tracking-wider font-medium text-gray-600 text-sm bg-gray-200">Storage</th>
+                  <th class="px-4 py-3 title-font tracking-wider font-medium text-gray-600 text-sm bg-gray-200">Price</th>
                   <th class="w-10 title-font tracking-wider font-medium text-gray-900 text-sm bg-gray-200 rounded-tr rounded-br"></th>
                 </tr>
               </thead>
